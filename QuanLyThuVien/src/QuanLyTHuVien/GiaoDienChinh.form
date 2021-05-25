@@ -1811,7 +1811,7 @@
             <Component class="javax.swing.JButton" name="btnhienthi">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="ff" green="99" red="99" type="rgb"/>
+                  <Color blue="0" green="ff" red="66" type="rgb"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/QuanLyTHuVien/Hinh/List.png"/>
@@ -1874,6 +1874,9 @@
             </Component>
             <Component class="javax.swing.JButton" name="btnthoatthongkesach">
               <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="cc" green="cc" red="0" type="rgb"/>
+                </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
                   <Image iconType="3" name="/QuanLyTHuVien/Hinh/Exit.png"/>
                 </Property>

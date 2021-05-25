@@ -1148,7 +1148,7 @@ public class GiaoDienChinh extends javax.swing.JFrame {
 
         jLabel30.setText("(Cuốn).");
 
-        btnhienthi.setBackground(new java.awt.Color(153, 153, 255));
+        btnhienthi.setBackground(new java.awt.Color(102, 255, 0));
         btnhienthi.setIcon(new javax.swing.ImageIcon(getClass().getResource("/QuanLyTHuVien/Hinh/List.png"))); // NOI18N
         btnhienthi.setText("  Hiển thị");
         btnhienthi.addActionListener(new java.awt.event.ActionListener() {
@@ -1177,6 +1177,7 @@ public class GiaoDienChinh extends javax.swing.JFrame {
 
         lbtongslsach.setText("0");
 
+        btnthoatthongkesach.setBackground(new java.awt.Color(0, 204, 204));
         btnthoatthongkesach.setIcon(new javax.swing.ImageIcon(getClass().getResource("/QuanLyTHuVien/Hinh/Exit.png"))); // NOI18N
         btnthoatthongkesach.setText("Thoát");
         btnthoatthongkesach.addActionListener(new java.awt.event.ActionListener() {
